@@ -1,0 +1,22 @@
+.dice{
+  float: left;
+  width: 32px;
+  background: #F5F5F5F5;
+  border: #999 1px solid;
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+  margin: 5px;
+}
+
+#button{
+margin-left: 20vh;
+}
+
+
+.jumbotron{
+  background-color: black;
+  padding-bottom: 20vh;
+  margin-left: -1.5vh;
+  margin-right: -1.5vh;
+}
